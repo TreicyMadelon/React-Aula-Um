@@ -1,6 +1,5 @@
-# React Basic Guide
+# Aula de React
 
 ```
-> npm install
-> npm start
+Objetivo criar um página com função que exibisse: h1, paragráfo e lista
 ```
